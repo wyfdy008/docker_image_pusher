@@ -1,2 +1,2 @@
 alpine
-go2rtc:latest
+homeassistant:latest
