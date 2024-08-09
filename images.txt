@@ -1,2 +1,2 @@
 alpine
-go2rtc
+go2rtc:latest
