@@ -1,3 +1,2 @@
 alpine
-homeassistant
-go2rtc
+alexxit/go2rtc
