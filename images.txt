@@ -1,2 +1,3 @@
 alpine
-homeassistant:latest
+homeassistant
+go2rtc
