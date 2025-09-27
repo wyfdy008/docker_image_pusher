@@ -2,3 +2,4 @@ alpine
 alexxit/go2rtc
 hanxi/xiaomusic:latest
 lmk123/migpt-server
+operepo/ope-codecombat:latest
